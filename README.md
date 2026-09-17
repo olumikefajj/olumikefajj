@@ -6,12 +6,12 @@ I'm a software engineer with 13+ years of experience designing and building
 enterprise applications, APIs, financial platforms, and distributed systems.
 
 My background is primarily in **banking, fintech, payments, system integration,
-and enterprise software**, where I've worked on systems involving real-time
-transactions, virtual accounts, payment processing, investment platforms,
-core-banking integrations, and high-volume APIs.
+and enterprise software**, with experience across real-time transactions,
+virtual accounts, payment processing, investment platforms, core-banking
+integrations, and high-volume APIs.
 
-I enjoy solving complex backend and integration problems while keeping systems
-maintainable, secure, observable, and scalable.
+I enjoy solving complex backend and integration problems while building
+systems that are maintainable, secure, observable, and scalable.
 
 ## 🛠️ Core Technologies
 
@@ -41,36 +41,75 @@ maintainable, secure, observable, and scalable.
 - Event-Driven Architecture
 - Background Processing
 - Third-Party API Integration
-- Authentication & Authorization
 - OAuth2 / JWT
 - Caching & Performance Optimization
 
-## 💼 What I Work On
+## 🔒 Selected Professional Projects
 
-Some of the areas I've worked extensively with include:
+Most of my recent production work is maintained in private repositories
+because it involves proprietary financial systems and client applications.
 
-- 💳 Payment and transaction processing systems
-- 🏦 Banking and fintech integrations
-- 🔄 Real-time and asynchronous processing
-- 💰 Digital wallets and virtual accounts
-- 📈 Wealth and investment platforms
-- 🔌 Enterprise API integrations
-- 📊 Data and reporting solutions
-- 🏗️ Backend and solution architecture
-- 🧪 Automated and integration testing
-- 👥 Technical leadership and mentoring
+### 💳 Enterprise Payments & Virtual Accounts Platform
+
+**Tech:** C#, .NET, ASP.NET Core, SQL Server, REST APIs
+
+- Designed and developed APIs supporting payment and virtual-account workflows.
+- Integrated external payment and core-banking services.
+- Implemented asynchronous transaction processing, settlement, and reconciliation.
+- Implemented security, audit logging, monitoring, and error handling.
+- Led architecture decisions, code reviews, and engineering delivery.
+
+### 📈 Wealth Management Platform
+
+**Tech:** .NET 8, Node.js, PostgreSQL, Redis, REST APIs
+
+- Developed backend services supporting investment products.
+- Integrated investment and banking platforms through APIs.
+- Implemented caching and database optimizations to improve performance.
+- Designed service integration and API gateway patterns.
+
+### 💰 Digital Wallet & Payments
+
+**Tech:** .NET 8, PostgreSQL, Redis, REST APIs
+
+- Developed wallet and payment-processing capabilities.
+- Integrated virtual-account and banking providers.
+- Implemented transaction processing, audit logging, and PII protection.
+- Supported asynchronous and event-driven processing.
+
+### 🌍 Global Remittance Platform
+
+**Tech:** Node.js, TypeScript, PostgreSQL, Redis
+
+- Developed backend services supporting international money-transfer workflows.
+- Implemented asynchronous transaction processing and background workers.
+- Built configurable transaction and rate-management workflows.
+- Designed reliable processing for multi-stage financial transactions.
+
+> 🔐 Source code for these projects is private due to client confidentiality,
+> security requirements, and intellectual property restrictions.
+
+## 💼 Areas of Expertise
+
+- 💳 Payments & Transaction Processing
+- 🏦 Banking & FinTech Integrations
+- 🔄 Distributed & Asynchronous Systems
+- 💰 Digital Wallets & Virtual Accounts
+- 📈 Wealth & Investment Platforms
+- 🔌 Enterprise API Integration
+- 🏗️ Backend & Solution Architecture
+- 🧪 Automated & Integration Testing
+- 👥 Technical Leadership & Mentoring
 
 ## 🚀 Current Interests
 
-I'm particularly interested in:
-
 - Modern .NET
-- Distributed systems
-- Cloud-native application architecture
-- Event-driven systems
+- Distributed Systems
+- Cloud Application Architecture
+- Event-Driven Systems
 - FinTech
-- AI-assisted software engineering
-- Reliable and observable backend systems
+- AI-Assisted Software Engineering
+- Reliable & Observable Backend Systems
 
 ## 📫 Connect With Me
 
